@@ -1,5 +1,6 @@
 [build]
   base = "duende-vago"
+  command =""
   publish = "."
 
 [build.environment]
