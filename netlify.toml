@@ -1,0 +1,7 @@
+[build]
+  base = "duende-vago"
+  command = "pnpm build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"

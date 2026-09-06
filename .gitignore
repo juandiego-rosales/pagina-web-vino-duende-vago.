@@ -1,0 +1,4 @@
+duende-vago/node_modules/
+duende-vago/.next/
+duende-vago/.env*
+!.env.example
